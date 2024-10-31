@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Vertical Scaling Consultancy<br>👯 I’m looking to collaborate on Virtual Tour Projects<br>🌱 I’m currently learning Java and ML
+🔭 I’m currently working on Vertical Scaling Consultancy<br>👯 I’m looking to collaborate on Virtual Tour Projects<br>🌱 I’m currently learning Java and ML<br>My other account: https://github.com/usr-frendylee
 
 
 ## 🌐 Socials:
